@@ -1,0 +1,31 @@
+{
+  "name": "gitci-commandaction",
+  "version": "0.9.0",
+  "description": "CLI command execution support for GitCI",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "João Miguel Marques Silva <joao@miguel.ms>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmtvms/GitCI-CommandAction.git"
+  },
+  "homepage": "https://github.com/jmtvms/GitCI-CommandAction",
+  "bugs": {
+    "email": "gitci-commandaction@miguel.ms",
+    "url": "https://github.com/jmtvms/GitCI-CommandAction/issues"
+  },
+  "keywords": [
+    "ci",
+    "command",
+    "cli execution"
+  ],
+  "contributors": [
+    "João Miguel Marques Silva <joao@miguel.ms> (http://www.miguel.ms)"
+  ],
+  "dependencies": {
+    "gitci-baseaction": "^0.9.1"
+  }
+}
