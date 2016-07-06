@@ -3,12 +3,22 @@ const commandsModule = require("../lib/index.js");
 
 var testAction = [
     {
-        "command": "cd",
+        "command": "npm",
         "basePath": "..",
         "args": [
-            "\\"
+            "install",
+            "-g"
+        ]
+    },
+    {
+        "command": "npm",
+        "basePath": "..",
+        "args": [
+            "uninstall",
+            "-g"
         ]
     }
+
 ];
 
 console.log("Starting action testing.");

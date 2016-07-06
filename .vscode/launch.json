@@ -16,7 +16,7 @@
             ],
             "env": {
                 "NODE_ENV": "development",
-                "NODE_DEBUG":"gitci child_process"
+                "NODE_DEBUG":"gitci"
             },
             "externalConsole": false,
             "sourceMaps": false,
