@@ -1,6 +1,6 @@
 {
   "name": "gitci-commandaction",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "CLI command execution support for GitCI",
   "main": "lib/index.js",
   "scripts": {
