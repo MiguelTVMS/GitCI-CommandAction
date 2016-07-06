@@ -1,6 +1,6 @@
 {
   "name": "gitci-commandaction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI command execution support for GitCI",
   "main": "lib/index.js",
   "scripts": {
@@ -26,6 +26,6 @@
     "João Miguel Marques Silva <joao@miguel.ms> (http://www.miguel.ms)"
   ],
   "dependencies": {
-    "gitci-baseaction": "^0.9.1"
+    "gitci-baseaction": "^1.0.0"
   }
 }
